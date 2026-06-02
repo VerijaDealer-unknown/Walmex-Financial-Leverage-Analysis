@@ -16,7 +16,7 @@ Financial  analysis of Walmart Mexico and Centroamérica (Walmex), focusing in t
 
 ---
 
-##Do companies with more debt tend to have lower or higher profits?
+## Do companies with more debt tend to have lower or higher profits?
 Higher debt directly relate to higher ROE for investors utilizing liabilities
 
 ## Key Insights & Financial Takeaways

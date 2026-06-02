@@ -1,5 +1,5 @@
 # Walmex-Financial-Leverage-Analysis
-In this repository you can see my journey in this my new case study and you can also download the raw and formatted data that i create.
+In this repository you can see my journey in my new case study, you can also download the raw and formatted data that i create.
 
 ## Dashboard Preview
 ![Walmex Dashboard Architecture](<img width="1219" height="789" alt="Dashboard 1" src="https://github.com/user-attachments/assets/b2af55a2-a1ac-4e36-8455-e7b9fc8ed097" />
